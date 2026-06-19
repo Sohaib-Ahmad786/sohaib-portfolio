@@ -1,36 +1,170 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Sohaib Portfolio
 
-## Getting Started
+A modern and fully responsive Full Stack Developer Portfolio built with **Next.js**, **React.js**, **Tailwind CSS**, and **Framer Motion**.
 
-First, run the development server:
+## 🌐 Live Demo
+
+👉 Add your Vercel deployment link here
+
+```bash
+https://your-portfolio.vercel.app
+```
+
+---
+
+## 📌 About The Project
+
+This portfolio website showcases my:
+
+* Professional profile
+* Technical skills
+* Featured projects
+* Educational background
+* Contact information
+
+The portfolio is designed with a modern UI, smooth animations, responsive layouts, and optimized performance.
+
+---
+
+## ✨ Features
+
+* Modern & Professional UI
+* Fully Responsive Design
+* Smooth Framer Motion Animations
+* Project Showcase Section
+* Skills Progress Section
+* Education & Experience Timeline
+* Contact Form Integration
+* GitHub & LinkedIn Integration
+* SEO Friendly Structure
+* Fast Performance with Next.js
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript
+* Tailwind CSS
+* Framer Motion
+
+### Backend Technologies (Skills)
+
+* Node.js
+* Nest.js
+* TypeScript
+* PostgreSQL
+* Prisma
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── app/
+│   ├── layout.js
+│   ├── page.js
+│   └── globals.css
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Projects.jsx
+│   ├── Education.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+│
+├── data/
+│   └── projects.js
+│
+└── public/
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sohaib-Ahmad786/sohaib-portfolio.git
+```
+
+Go to project directory:
+
+```bash
+cd sohaib-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Featured Projects
 
-To learn more about Next.js, take a look at the following resources:
+### Epic Smart Laundry System
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+A modern laundry management platform designed for students, hostels, and residential users.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Features:
 
-## Deploy on Vercel
+* Online Laundry Booking
+* Order Tracking
+* Responsive Design
+* Modern Dashboard
+* Fast User Experience
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Author
+
+**Sohaib Ahmad**
+
+Full Stack Developer
+
+GitHub:
+https://github.com/Sohaib-Ahmad786
+
+LinkedIn:
+https://linkedin.com/in/sohaib-ahmad-60b652353
+
+Email:
+[sohaibahmad.dev@gmail.com](mailto:sohaibahmad.dev@gmail.com)
+
+---
+
+## 📄 License
+
+This project is created for portfolio and educational purposes.
+
+© 2026 Sohaib Ahmad. All Rights Reserved.
